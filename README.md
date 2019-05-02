@@ -1,3 +1,3 @@
 # MoxieSpmTest
 
-A description of this package.
+Sample repository to test that moxie can be used from linux via spm
