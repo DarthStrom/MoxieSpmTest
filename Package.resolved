@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Moxie",
+        "repositoryURL": "https://github.com/DarthStrom/Moxie.git",
+        "state": {
+          "branch": null,
+          "revision": "63edb245cbfbbb861565749fc23fcdd17ebfd3cd",
+          "version": "0.2.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
